@@ -1,18 +1,8 @@
-package taxlesson2;
-
 import java.util.Objects;
 import java.util.Scanner;
 
-public class taxClass2 {
-
+public class taxAmount {
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		import java.util.Scanner;
-		import java.util.Objects;
-
-
-		class taxAmount {
-		    public void main(String[] args){
 		        
 		        // Declare all your variables at the top
 		        double purchaseAmount;
